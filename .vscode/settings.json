@@ -1,0 +1,6 @@
+{
+    // "python.defaultInterpreterPath": "/Users/j/Documents/py_venv/bin/python3",
+    "python.defaultInterpreterPath": "/home/j/myenv/bin/python3",
+    "python.terminal.activateEnvironment": true,
+    "python-envs.pythonProjects": []
+}

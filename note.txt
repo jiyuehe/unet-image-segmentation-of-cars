@@ -1,0 +1,5 @@
+PyTorch Image Segmentation Tutorial with U-NET: everything from scratch baby
+https://www.youtube.com/watch?v=IHq1t7NxS8k
+
+data
+https://www.kaggle.com/c/carvana-image-masking-challenge
