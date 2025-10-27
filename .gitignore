@@ -1,2 +1,4 @@
 __pycache__
 my_checkpoint.pth.tar
+saved_images/*.png
+.DS_Store
